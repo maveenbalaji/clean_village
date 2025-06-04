@@ -9,6 +9,9 @@ VillageConnect is a web application dedicated to empowering rural artisans by co
 - **Fair Trade**: Support fair trade practices and sustainable livelihoods.
 - **Community**: Join our community of artisans and buyers.
 
+  ![image](https://github.com/user-attachments/assets/628b33ca-768a-43ca-943f-477553c7693c)
+
+
 ## Technologies Used
 
 - **Frontend**: React, Vite, TypeScript
